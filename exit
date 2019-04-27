@@ -1,0 +1,342 @@
+clear
+cat package.json 
+npm install mysql --save
+sudo mysql -uroot -p
+sudo mysql_secure_installation
+mysql_secure_installation 
+history 
+nodemon
+Documents/Web/Practice\ Node/Test1/
+sudo apt-get install mysql-server
+sudo apt-get update
+exit
+keytool -exportcert -list -v \
+-alias androiddebugkey  -keystore ~/.android/debug.keystore
+ifconfig
+sudo apt install net-tools
+bash
+sudo ./arduino
+ls
+celar
+arduino-1.8.9/
+Downloads/
+cd Downlo0
+Test1/
+test1
+Practice\ Node/
+..
+cd Documents/Web/Node/
+cat package.json 
+sudo npm install --save multer
+npm install multer--save
+package.json
+cat package.json
+npm install multer --save
+sudo apt upgrade
+sudo apt update
+exiy
+android-studio
+touch jquery.js
+npm install jquery --save
+npm install jquery
+ls -1
+cd Test1/
+cd Documents/Web/Practice\ Node/
+xd Documents/Web/Practice\ Node/
+touch style.css
+ls css
+mkdir externalFramework
+mkdir js
+mkdir css
+touch index.html
+xrandr 1600x900
+xrandr
+git push origin master
+git commit -m"program finish"
+git add *
+cd BMI_Rabin_Gurung/
+git status
+git clone git@github.com:rabinGurung/BMI_Rabin_Gurung.git
+cd Downloads/
+npm install body-parser --save
+npm install body-parser __save
+sudo npm install body-parser __save
+sudo npm install body-parser
+npm install bodyParser __save
+Documents/Web/
+./studio.sh
+cd Downloads/android-studio/bin
+cd Downloads/arduino-1.8.9/
+cd arduino-1.8.9/
+firefox 
+cd Practice\ Node/Test1/
+cd Documents/Web/
+shutdown
+calibre
+touch user.txt
+sudo touch user.txt
+touch user/role.txt
+npm install ejs --save
+cd Web
+cd Documents
+clea
+shutdown  -c
+sudo shutdown
+shutdown 
+npm install bootstrap
+npm install -g nodemon
+node app
+npm install express --save
+node app.js 
+nano app.js 
+touch app.js
+rm app.js 
+cat app.js 
+na
+CLEAR
+npm init
+node init
+node testing.js
+node app.js
+ls -a
+suspend 
+cd bin
+cd android-studio
+cd Downloads
+cd 
+cd Downlaods/
+npm run test.js 
+cd Documents/js\ cw/
+~
+sudo npm run abc
+nodemon test.js
+sudo npm -g install nodemon
+npm -v
+chroma
+chrome
+npm --verison
+cd Documents/Web/Node
+sudo apt-get install preload
+sudo apt-install preload
+sudo gedit /etc/default/grub &
+
+sudo apt purge tixati
+dpkg --list
+sudo ./setup
+sudo chmod 755 +x ./setup
+sudo chmod 755 ./setup
+sudo chmod 755 +x./setup
+sudo chmod +x./setup
+sudo chmod+x./setup
+cd ~/Downloads/maya2017install
+sudo apt install ./libpng12-0_1.2.54-1ubuntu1.1_amd64.deb
+sudo apt install libjpeg62
+deb http://security.ubuntu.com/ubuntu xenial-security main 
+sudo -i
+chmod --help
+sudo dpkg -i *.deb
+echo "int main (void) {return 0;}" > mayainstall.c
+gcc mayainstall.c
+sudo mv /usr/bin/rpm /usr/bin/rpm_backup
+sudo cp a.out /usr/bin/rpm
+sudo alien -cv *.rpm
+sudo dpkg -i libxp6_1.0.2-2_amd64.deb
+wget http://launchpadlibrarian.net/183708483/libxp6_1.0.2-2_amd64.deb
+claer
+sudo apt-get install -y libssl1.0.0 gcc libssl-dev libjpeg62 alien csh tcsh libaudiofile-dev libglw1-mesa elfutils libglw1-mesa-dev mesa-utils xfstt ttf-liberation xfonts-100dpi xfonts-75dpi ttf-mscorefonts-installer libfam0 libfam-dev libgstreamer-plugins-base1.0-dev
+tar xvf Autodesk_Maya_2017_EN_JP_ZH_Linux_64bit.tgz
+sudo apt-get install calibre
+sudo apt purge fbreader
+d
+exi
+fbreader
+sudo apt install fbreader
+wget http://edutrial.autodesk.com/NET17SWDLD/2017/MAYA/ESD/Autodesk_Maya_2017_EN_JP_ZH_Linux_64bit.tgz
+mkdir -p ~/Downloads/maya2017install
+
+sudo apt install chrome-gnome-shell
+sudo apt-get install npm
+exot
+cd D
+cleqar
+chsh -s /usr/bin/fish
+ls bin
+ls android-studio
+cd Downlaods
+reboot
+sudo apt purge unity-session unity
+./studio.sj
+cd Downlaods/android-studio
+kvm-ok
+ibus version
+xrandr -r 75
+sudo run atom
+sudo run
+cd ~
+gksudo atom
+sudo apt-get install clang
+sudo apt update clang
+install apt update clang
+clang --version
+clang -version
+cd android-studio-ide-182.5314842-linux
+aw
+\\dwa
+sudo -
+node index.js
+node index.js 
+cat index.js
+sudo apt-get install firefox
+chmod -R 755 Arduino Files
+sudo chmod -R 755 .
+chmod -R 755 .
+chmod -R .
+chmod -R 755 ./Arduino Files
+./studio
+./setup-bin
+su -
+./setup-bin.bin
+./setup
+./idea.sh
+cd ./Documents/Web/Node
+nano index.js
+ls -lai
+c;ear
+touch test.html
+touch index.js
+nodejs -v
+node -v
+cd  Node
+cd  ./Documents/Web
+cd /Documents/Web/Node/
+cd /Documents/Web/Node
+node require.js
+cd Node
+node
+nano require.js
+cat testing.js
+cd node
+snap install spotify
+node testin.js
+nano testing.js
+node -help
+node --verison
+cat require.js
+touch require.js
+vim testing.js
+sudo apt install vim
+touch testing.js
+mkdir Node
+sudo apt-get install nodejs
+git commit -m"two programs game and palaindrome checker"
+cd Android
+git clone git@github.com:rabinGurung/Android.git
+zip -r numbergame.zip NumberGame/
+zip
+zip -r NumberGame numbergame.zip
+sudo apt-get --purge remove code
+sudo apt-get --purge remove firefox
+sudo apt-get --purge remove thunderbird
+sudo apt install mono-devel
+echo "deb https://download.mono-project.com/repo/ubuntu stable-bionic main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
+apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+sudo apt install gnupg ca-certificates
+exo-preferred-applications
+sudo dpkg -i code*.deb
+./rider.sh
+sudo run winff
+sudo apt-get install winff libavcodec-extra
+ancov -i /Pop 2019 Hits _ Maroon 5, Taylor Swift, Ed Sheeran, Adele, Shawn Mendes, Charlie.mp4 outout music.mp3
+sudo apt-get install ffmpeg libavcodec-extra libav-tools
+sudo ./studio.sh
+sudo adduser leonul kvm
+sudo adduser robin kvm
+ls -al / dev/kvm
+sudo apt install qemu-kvm
+sudo apt-install qemu-kvm
+cat emulator
+cd emulator
+cd .avd
+cd avd
+cd .android
+cd leonul
+cd home
+cd ..
+sudo kvm
+kvm
+dpkg
+run notepad
+run
+open
+cd
+git clone https://github.com/rabinGurung/Web.git
+cleaer
+git commit -m "first commit"
+git commit
+git --all
+git clone git@github.com:rabinGurung/Web.git
+cat id_rsa.pub
+ssh-keygen -t rsa
+cd .ssh
+git log
+git push origin  master
+git push master
+git config --global user.email leongurung029@gmail.com
+git --status
+git add --all
+git add -all
+git--status
+git -status
+cd web-Api
+git add ./
+git add .
+git clone git@github.com:rabinGurung/web-Api.git
+zip -r prakash.zip prakash
+sudo apt install unar
+cat index.html
+nano index.html
+emulator --avdlist
+'/home/leonul/Downloads/android-studio-ide-182.5314842-linux/android-studio/bin/studio.sh' 
+find genymotion
+dpkg --lisy
+sudo run genymotion
+sudo genymotion
+sudo apt-get --purge remove virtualbox-6.0
+sudo /usr/lib/virtualbox/vboxdrv.sh setup
+sudo ./genymotion
+./genymotion-3.0.1-linux_x64.bin
+chmod +x genymotion-3.0.1-linux_x64.bin.run
+chmod +x genymotion-3.0.1-linux_x64.run
+emulator -list-avds
+list avd
+avdmanager list avd
+'/home/leonul/Downloads/arduino-1.8.9/arduino' 
+su -root
+whoami
+who am i
+sudo ./install.sh
+./install.sh
+virsh -c qemu:///system list
+sudo apt-get install qemu-kvm libvirt-bin bridge-utils
+egrep -c '(vmx|svm)' /proc/cpuinfo
+javac -version
+sudo apt-get install oracle-java8-set-default
+sudo apt-get install oracle-java8-installer
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt install libcanberra-gtk-module libcanberra-gtk3-module
+sudo apt install mingw-w64
+sudo apt install codeblocks codeblocks-contrib
+sudo apt install clang
+sudo add-apt-repository ppa:damien-moore/codeblocks-stable
+sudo apt install codeblocks
+sudo apt install android-studio
+xrandr -r 60
+sudo apt install ubuntu-unity-desktop
+sudo apt-get install git
+sudo apt-get install chrome
+sudo apt install update
+apt list --upgradable
+sudo apt install dconf-editor
+su apt-get install git
+sudp apt-get install git
+mouse
